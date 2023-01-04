@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Football Products",
+    "subtitle": "New Year Offer 2023 Collection",
+    "image": "/assets/img/slider/1.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Cricket Products",
+    "subtitle": "New Year 2023 Collection",
+    "image": "/assets/img/slider/2.png",
+    "url": "/shop-grid-standard"
+  }
+]

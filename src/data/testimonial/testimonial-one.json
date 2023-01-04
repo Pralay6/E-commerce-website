@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/testimonial/testi-1.png",
+    "content": "Best Quality Products Available Highly Recommended",
+    "customerName": "Muhammad Adeel",
+    "title": "Customer"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/testimonial/testi-1.png",
+    "content": "Best Services Available in the Shop. Quality Work Available. All kinds of Equipment Available",
+    "customerName": "Ameer Hamza",
+    "title": "Customer"
+  }
+]
